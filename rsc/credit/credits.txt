@@ -1,0 +1,8 @@
+﻿<rsc/credit/제목.png>
+<rsc/credit/무궁화꽃.png>무궁화 꽃이 피었...
+<rsc/credit/조심해.png>조심해! 안에 표백제가 들어있어!
+<rsc/credit/어색.png>아까 잘가~라고 인사했는데 집에 가는 방향이 같아서 어색함.
+<rsc/credit/말해라.png>"암호으 마해아"
+<rsc/credit/숙제.png>
+<rsc/credit/end.png>
+<rsc/credit/guide.png>
